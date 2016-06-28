@@ -18,9 +18,10 @@ header {
 }
 
 .article-footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   height: 10vh;
   width: 60%;
   background: #222;
+  margin: 0 auto;
 }
